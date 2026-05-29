@@ -147,7 +147,7 @@ Possible upgrades:
 
 
 # 👨‍💻 Author
-Vishal Raj
+## Vishal Raj
 Developed and improved with modern frontend practices using Tailwind CSS and JavaScript.
 
 ---
