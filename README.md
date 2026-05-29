@@ -49,7 +49,7 @@ project-folder/
 ## 1️⃣ Clone or Download the Project
 
 ```bash
-git clone <repository-link>
+https://github.com/vishalrj291/Paytm_UI.git
 ```
 
 or download ZIP manually.
